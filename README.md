@@ -22,7 +22,7 @@
 
 **Confira alguns projetos** \
 [**Front-End**](https://msnegocios.online/port.html) • Full-time \
-Projetos em destaque: [Ms negocios](https://msnegocios.online/port.html), [Perobas](<https://restauranteperobas.msnegocios.online/)>)
+Projetos em destaque: [Ms Negócios](https://msnegocios.online/port.html), [Perobas](<https://restauranteperobas.msnegocios.online/)>)
 <br/>
 
 
