@@ -7,7 +7,7 @@
  <img src="https://tse1.mm.bing.net/th/id/OIG1.Y8CtSSi1p2Gw7V6Ohd8L?pid=ImgGn" alt="ilustração de Progração" min-width="400px" max-width="400px" width="400px" align="right" >
 
 
-  Olá, meu nome é Marcos Paulo. Sou estudante de Programação e SEO na Ms Negócios, atuando como programador front-end. Minha paixão pela tecnologia me motiva a aprimorar constantemente minhas habilidades, tanto em programação quanto em outras áreas. Atualmente, estou cursando Programação Full Stack na Infinity School e Desenvolvimento Front-end na Danki Code, além de aperfeiçoar minhas habilidades em JavaScript e Inglês Intermediário aos sábados na CNA.
+  Olá, meu nome é Marcos Paulo. Sou estudante de Programação e SEO na Ms Negócios, atuando como programador front-end. Minha paixão pela tecnologia me motiva a aprimorar constantemente minhas habilidades, tanto em programação quanto em outras áreas. Atualmente, estou cursando Programação Full Stack IA na Infinity School e Desenvolvimento Front-end na Danki Code, além de aperfeiçoar minhas habilidades em JavaScript e Inglês Intermediário aos sábados na CNA.
 </p>
 
 <p align="left">
