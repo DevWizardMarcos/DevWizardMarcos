@@ -13,13 +13,17 @@
 
 </br>
 
-- 🔧Hoje trabalho na minha empresa, Ms Negócios sendo desenvolvedor front-end e sendo SEO. desenvolvendo sites.
-- 🌱 Estudando Front-end mais voltado para JS na danki code, iniciando a jornada de programador Full-Stack na Infinty School com <br>Curso de Programção full-stack IA
-       com a previsão de conclusão em julho/Agosto de 2025. fazzendo curso de ingles Intermediario aos sabados na CNA 📕.  
--  ⌨️ Atualemnte estou busccando cada vez mais conhecimentos e aprimorando minhas habilades em front-end .
-- 💡 sou muito curioso em aprender gosto de adiquirir conehcimentos para tornar minhas ideias reais e funcionais.
-- 📖 Atualmente estou aprendendo, Js, Ingles Interedirio, Estratefias de Marketing, e sempre busco mais conhecimento.
-- ❄️  Procuro fazer com que meus sites e ideas nao so podem me ajudar mas ajudar aos outros.
+🔧 Atualmente, sou desenvolvedor front-end e especialista em SEO na minha empresa, Ms Negócios. Dedico-me a criar sites impactantes e otimizados para meus clientes.
+
+🌱 Estou em constante evolução na minha carreira. Estudo Front-end com foco em JavaScript na Danki Code e estou iniciando minha jornada como programador Full-Stack na Infinity School. Estou matriculado no curso de Programação Full-Stack com IA, com previsão de conclusão para julho/agosto de 2025. Além disso, aos sábados, invisto no aprimoramento do meu inglês na CNA.
+
+⌨️ Busco continuamente expandir meus conhecimentos e aprimorar minhas habilidades em front-end. Estou sempre atualizado com as últimas tendências e tecnologias do setor.
+
+💡 Sou extremamente curioso e apaixonado por aprender. Acredito que adquirir conhecimento é essencial para transformar minhas ideias em realidade de forma funcional e inovadora.
+
+📖 No momento, estou imerso no estudo de JavaScript, aperfeiçoando meu inglês, explorando estratégias de marketing e buscando constantemente novas fontes de conhecimento.
+
+❄️ Meu objetivo é não apenas desenvolver sites e ideias que me beneficiem, mas também contribuir positivamente para a comunidade, criando soluções que possam ajudar os outros.
 
 
 - 📫  Como entrar em contato comigo<p align="left">
