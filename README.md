@@ -55,6 +55,18 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 
 
+<div class= icons  style= display= flex>
+<img width="50" height="50" src="https://img.icons8.com/ios-filled/50/4D4D4D/laptop-metrics.png" alt="SEO"/>
+<img width="50" height="50" src="https://img.icons8.com/ios-filled/50/4D4D4D/speaker_1.png" alt="Marketing"/>
+<img width="50" height="50" src="https://img.icons8.com/ios-filled/50/4D4D4D/design--v1.png" alt="Design"/>
+<img width="50" height="50" src="https://img.icons8.com/ios-filled/50/4D4D4D/google-logo.png" alt="google-logo"/>
+
+### Ferramentas
+
+<img width="50" height="50" src="https://img.icons8.com/ios/50/4D4D4D/small-business.png" alt="Google meu Negócios"/>
+<img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/48/4D4D4D/external-bootstrap-a-free-and-open-source-css-framework-logo-bold-tal-revivo.png" alt="external-bootstrap-a-free-and-open-source-css-framework-logo-bold-tal-revivo"/>
+</div>
+
 
 #### Minha Empresa
 
