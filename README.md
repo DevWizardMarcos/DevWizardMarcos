@@ -1,35 +1,129 @@
-## Seja bem-vindo ao meu GitHub! Aqui você encontrará minhas ideias, projetos, e muito código. Fique à vontade para explorar !
-# 💫 About Me:
-🔧 Atualmente, sou desenvolvedor front-end e especialista em SEO na minha empresa, Ms Negócios. Dedico-me a criar sites impactantes e otimizados para meus clientes.<br><br>🌱 Estou em constante evolução na minha carreira. Estudo Front-end com foco em JavaScript na Danki Code e estou iniciando minha jornada como programador Full-Stack na Infinity School. Estou matriculado no curso de Programação Full-Stack com IA, com previsão de conclusão para julho/agosto de 2025. Além disso, aos sábados, invisto no aprimoramento do meu inglês na CNA.<br><br>⌨️ Busco continuamente expandir meus conhecimentos e aprimorar minhas habilidades em front-end. Estou sempre atualizado com as últimas tendências e tecnologias do setor.<br><br>💡 Sou extremamente curioso e apaixonado por aprender. Acredito que adquirir conhecimento é essencial para transformar minhas ideias em realidade de forma funcional e inovadora.<br><br>📖 No momento, estou imerso no estudo de JavaScript, aperfeiçoando meu inglês, explorando estratégias de marketing e buscando constantemente novas fontes de conhecimento.<br><br>❄️ Meu objetivo é não apenas desenvolver sites e ideias que me beneficiem, mas também contribuir positivamente para a comunidade, criando soluções que possam ajudar os outros.<br><br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fredericka+the+Great&pause=1000&color=E5E5E5&random=true&width=435&lines=Construindo+ideias+em+c%C3%B3digo.+;Veja+meu+trabalho+%F0%9F%92%BB%F0%9F%A7%99)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=slice&height=300&color=000814&section=header&reversal=false&descSize=0" 
+alt="Header Capsule"/>
 
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+  
 
-## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/DevWizardMarcos) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Marcos Paulo ) 
+### <div align="center">Aqui, a magia acontece! 💻✨ Explore minhas ideias, projetos pessoais e muito código que está sempre evoluindo. 🚀
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DevWizardMarcos&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=DevWizardMarcos&theme=blue_navy&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DevWizardMarcos&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=DevWizardMarcos&theme=aura_dark&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=DevWizardMarcos&limit=5&theme=dark&combine_all_yearly_contributions=true)
+Sou monitor Full-Stack na Infinity School de Belo Horizonte, onde ajudo alunos a transformar desafios em soluções reais durante as monitorias que ministro. Se você está buscando aprender e evoluir, está no lugar certo!
+</div>  
+  
+<div align="right">
+<img src="Githhub .png" align="right" height="300" width="300" />
+</div>  
 
 ---
-[![](https://visitcount.itsvg.in/api?id=DevWizardMarcos&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🔭 **O que você vai encontrar aqui**:  
+- **Projetos pessoais**: de front-end a back-end, sempre inovando.  
+- **Projetos de monitoria**: soluções que ajudo a desenvolver com meus alunos.  
+- **Dicas e aprendizados**: insights que compartilho com a comunidade de desenvolvimento.  
+
+💡 **Sinta-se à vontade para explorar, contribuir ou simplesmente aprender!**
+
+---
+
+### 💻 **Minhas Habilidades**  
+
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
+
+
+
+### Frontend  
+<div align="center">  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
+<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>  
+<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
+<a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>  
+<a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="50" /></a>  
+<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
+<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
+
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+### Backend  
+<div align="center">  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
+<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a> 
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>   
+<a href="https://flet.dev" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Flet_logo.svg/2560px-Flet_logo.svg.png" alt="Flet" height="50" style="margin: 10px" />
+</a>
+<a href="https://flask.palletsprojects.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Flask_logo.svg" alt="Flask" height="50" style="margin: 10px" />
+</a>
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+### DevOps  
+<div align="center">  
+<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
+<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
+<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a> 
+  <a href="https://github.com" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" height="50" style="margin: 10px" />
+  </a>
+<a href="https://github.com/copilot" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/GitHub_Copilot_Logo.svg" alt="GitCopilot" height="50" style="margin: 10px" />
+  </a>
+</div>
 
 
 
 
 
+  
+</div>
+
+</td></tr></table>  
+
+<br/>  
+
+### 🌐 **Conecte-se comigo**  
+<div align="center">
+  <a href="https://linkedin.com/in/marcos-simoes-ms/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://instagram.com/darckwolf787/" target="_blank">
+    <img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://github.com/DevWizardMarcoss" target="_blank">
+    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://gitlab.com/DevWizardMarcos" target="_blank">
+    <img src="https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" style="margin-bottom: 5px;" />
+  </a>  
+</div>
 
 
+---
