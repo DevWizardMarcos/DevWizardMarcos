@@ -1,10 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fredericka+the+Great&pause=1000&color=E5E5E5&random=true&width=435&lines=Construindo+ideias+em+c%C3%B3digo.+;Veja+meu+trabalho+%F0%9F%92%BB%F0%9F%A7%99)](https://git.io/typing-svg)
-<img src="https://capsule-render.vercel.app/api?type=slice&height=300&color=000814&section=header&reversal=false&descSize=0" 
-alt="Header Capsule"/>
 
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
+
   
 
 ### <div align="center">Aqui, a magia acontece! 💻✨ Explore minhas ideias, projetos pessoais e muito código que está sempre evoluindo. 🚀
@@ -13,8 +9,14 @@ Sou monitor Full-Stack na Infinity School de Belo Horizonte, onde ajudo alunos a
 </div>  
   
 <div align="right">
-<img src="Githhub .png" align="right" height="300" width="300" />
+<img src="Githhub .png" align="right" height="200" width="200" style="max-width: 100%;display: inline-block;position: relative;top: 17px;border-radius: 30px;" />
+<img src="gitvideo-ezgif.com-video-to-gif-converter.gif" align="right" height="200" width="200" style="max-width: 100%;display: inline-block;position: relative;top: 17px;border-radius: 30px;" />
+
 </div>  
+
+
+
+
 
 ---
 
