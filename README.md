@@ -2,7 +2,7 @@
 
  <hr/>
 
-| <img src="ne que ficou bom.png" height="400" width="400"> | <img src="mage.gif" height="400" width="400">|
+| <img src="avatar.png" height="400" width="400"> | <img src="mage.gif" height="400" width="400">|
  | ----------- | ----------- |
 
 <hr/>
