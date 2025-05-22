@@ -1,18 +1,18 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fredericka+the+Great&pause=1000&color=E5E5E5&random=true&width=435&lines=Construindo+ideias+em+c%C3%B3digo.+;Veja+meu+trabalho+%F0%9F%92%BB%F0%9F%A7%99)](https://git.io/typing-svg)
 
  <hr/>
+<div align="center">
+| <img src="transição.png" height="400" width="800"> |
 
-| <img src="avatar.png" height="400" width="400"> | <img src="mage.gif" height="400" width="400">|
- | ----------- | ----------- |
-
+</div>
 <hr/>
   
 
-### <div align="center">Aqui, a magia acontece! 💻✨ Explore minhas ideias, projetos pessoais e muito código que está sempre evoluindo. 🚀
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fredericka+the+Great&pause=1000&color=E5E5E5&random=true&width=435&lines=Construindo+ideias+em+c%C3%B3digo.+;Veja+meu+trabalho+%F0%9F%92%BB%F0%9F%A7%99)](https://git.io/typing-svg)
 
 Sou monitor Full-Stack na Infinity School de Belo Horizonte, onde ajudo alunos a transformar desafios em soluções reais durante as monitorias que ministro. Se você está buscando aprender e evoluir, está no lugar certo!
 </div>  
   
+### <div align="center">Aqui, a magia acontece! 💻✨ Explore minhas ideias, projetos pessoais e muito código que está sempre evoluindo. 🚀
 <div align="right">
 <img src="Githhub .png" align="right" height="200" width="200" style="max-width: 100%;display: inline-block;position: relative;top: 17px;border-radius: 30px;" />
 <img src="gitvideo-ezgif.com-video-to-gif-converter.gif" align="right" height="200" width="200" style="max-width: 100%;display: inline-block;position: relative;top: 17px;border-radius: 30px;" />
