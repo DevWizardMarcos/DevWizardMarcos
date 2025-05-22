@@ -1,15 +1,37 @@
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fredericka+the+Great&pause=1000&color=E5E5E5&random=true&width=435&lines=Construindo+ideias+em+c%C3%B3digo.+;Veja+meu+trabalho+%F0%9F%92%BB%F0%9F%A7%99)](https://git.io/typing-svg)
  <hr/>
-<div align="center">
-| <img src="transição.png" height="400" width="800"> |
 
+
+<div align="center">
+  <img src="banner de fundo github.png" alt="DevWizrd programando... " style="width:auto; height:auto"/>
 </div>
+<hr>
+
+
+
+ 
+<table>
+  <tr>
+    <td><img src="avatar.png" height="400" width= 600"" style="border-radius: 16px;"></td>
+    <td>
+      <h3>Sobre mim</h3>
+      Olá! Sou <strong>Marcos Simões</strong>,  monitor e desenvolvedor Full-Stack na Infinity School (Belo Horizonte).<br>
+      Atuo diretamente no apoio técnico e pedagógico a alunos, transformando desafios em soluções práticas através de mentorias, workshops e minicursos.<br>
+      Apaixonado por tecnologia e educação, desenvolvo projetos completos — do front-end ao back-end — sempre focando em performance, boas práticas e experiência do usuário.<br>
+      Aqui você encontra meus projetos pessoais, dicas de carreira, conteúdos práticos, e muito código em constante evolução.
+      Estou sempre buscando compartilhar conhecimento e contribuir com a comunidade tech.<br>
+      <strong>Fique à vontade para explorar, conectar-se e colaborar!</strong>
+    </td>
+  </tr>
+</table>
 <hr/>
   
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fredericka+the+Great&pause=1000&color=E5E5E5&random=true&width=435&lines=Construindo+ideias+em+c%C3%B3digo.+;Veja+meu+trabalho+%F0%9F%92%BB%F0%9F%A7%99)](https://git.io/typing-svg)
 
-Sou monitor Full-Stack na Infinity School de Belo Horizonte, onde ajudo alunos a transformar desafios em soluções reais durante as monitorias que ministro. Se você está buscando aprender e evoluir, está no lugar certo!
+DevWizard por vocação, Full-Stack por paixão.
+Sou movido pela vontade de ver quem está começando crescer com confiança e propósito.
+
 </div>  
   
 ### <div align="center">Aqui, a magia acontece! 💻✨ Explore minhas ideias, projetos pessoais e muito código que está sempre evoluindo. 🚀
