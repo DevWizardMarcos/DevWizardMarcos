@@ -4,7 +4,7 @@
 
 
 <div align="center">
-  <img src="banner de fundo github.png" alt="DevWizrd programando... " style="width:auto; height:auto"/>
+  <img src="banner de fundo github.png" alt="DevWizrd programando... " height="400" width= 600"/>
 </div>
 <hr> 
 <table>
