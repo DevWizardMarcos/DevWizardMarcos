@@ -9,7 +9,7 @@
 <hr> 
 <table>
   <tr>
-    <td><img src="avatar.png" height="auto" width= "auto"></td>
+    <td><img src="avatar.png" height="800" width= "1200"></td>
     <td>
       <h3>Sobre mim</h3>
       Olá! Sou <strong>Marcos Simões</strong>,  monitor e desenvolvedor Full-Stack na Infinity School (Belo Horizonte).<br>
