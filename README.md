@@ -4,12 +4,12 @@
 
 
 <div align="center">
-  <img src="banner de fundo github.png" alt="DevWizrd programando... " height="400" width= 600"/>
+  <img src="banner de fundo github.png" alt="DevWizrd programando... " height="auto" width= "auto"/>
 </div>
 <hr> 
 <table>
   <tr>
-    <td><img src="avatar.png" height="400" width= 600"></td>
+    <td><img src="avatar.png" height="auto" width= "auto"></td>
     <td>
       <h3>Sobre mim</h3>
       Olá! Sou <strong>Marcos Simões</strong>,  monitor e desenvolvedor Full-Stack na Infinity School (Belo Horizonte).<br>
