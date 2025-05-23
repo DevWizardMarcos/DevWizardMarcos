@@ -1,10 +1,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fredericka+the+Great&pause=1000&color=E5E5E5&random=true&width=435&lines=Construindo+ideias+em+c%C3%B3digo.+;Veja+meu+trabalho+%F0%9F%92%BB%F0%9F%A7%99)](https://git.io/typing-svg)
  <hr/>
-
-
 <div align="center">
-  <img src="banner de fundo github.png" alt="DevWizrd programando... " height="auto" width= "auto"/>
+  <img src="banner de fundo github.png" alt="DevWizrd programando..." width="45%" style="display: inline-block;"/>
+  <img src="https://github.com/DevWizardMarcos/DevWizardMarcos/blob/main/fundido2.png" alt="evoluindo..." width="45%" style="display: inline-block;"/>
 </div>
 <hr> 
 <table>
