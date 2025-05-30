@@ -31,8 +31,8 @@ Sou movido pela vontade de ver quem está começando crescer com confiança e pr
   
 ### <div align="center">Aqui, a magia acontece! 💻✨ Explore minhas ideias, projetos pessoais e muito código que está sempre evoluindo. 🚀
 <div align="right">
-<img src="mago segunda sessao.png" align="right" height="200" width="200" style="max-width: 100%;display: inline-block;position: relative;top: 17px;border-radius: 30px;" />
-<img src="segunda sessaodark.png align="right" height="200" width="200" style="max-width: 100%;display: inline-block;position: relative;top: 17px;border-radius: 30px;" />
+<img src="segunda sessao .png" align="right" height="200" width="200" style="max-width: 100%;display: inline-block;position: relative;top: 17px;border-radius: 30px;" />
+<img src="segunda sessaodark.png" align="right" height="200" width="200" style="max-width: 100%;display: inline-block;position: relative;top: 17px;border-radius: 30px;" />
 
 </div>  
 
@@ -65,7 +65,17 @@ Sou movido pela vontade de ver quem está começando crescer com confiança e pr
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Light.svg" height="52" alt="github logo"  />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flask-Light.svg" height="52" alt="flask logo"  />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Light.svg" height="52" alt="figma logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="52" alt="react logo"  />
+ <br>
+ 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="52" alt="react logo"  />
+ <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sublime-Light.svg" height="52" alt="react logo"  />
+ <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Notion-Light.svg" height="52" alt="react logo"  />
+ <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Light.svg" height="52" alt="react logo"  />
+ <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" height="52" alt="react logo"  />
+ <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" height="52" alt="react logo"  />
+
+
+
   
 </div>
 
