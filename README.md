@@ -32,7 +32,7 @@ Sou movido pela vontade de ver quem está começando crescer com confiança e pr
 ### <div align="center">Aqui, a magia acontece! 💻✨ Explore minhas ideias, projetos pessoais e muito código que está sempre evoluindo. 🚀
 <div align="right">
 <img src="mago segunda sessao.png" align="right" height="200" width="200" style="max-width: 100%;display: inline-block;position: relative;top: 17px;border-radius: 30px;" />
-<img src="segunda sessao .png" align="right" height="200" width="200" style="max-width: 100%;display: inline-block;position: relative;top: 17px;border-radius: 30px;" />
+<img src="segunda sessaodark.png align="right" height="200" width="200" style="max-width: 100%;display: inline-block;position: relative;top: 17px;border-radius: 30px;" />
 
 </div>  
 
