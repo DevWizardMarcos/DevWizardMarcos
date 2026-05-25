@@ -2,21 +2,16 @@
 
 <img src="banners_novos/bannerGit.png" width="100%" />
 
-<br><br>
+<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Founder+of+CNX+Connect;Automation+%7C+AI+%7C+Systems;Building+Digital+Experiences" />
-
-<br><br>
-
-# ⚡ Marcos Simões
-
-### Desenvolvedor Full Stack • Mentor Tech • Founder @ CNX Connect
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Founder+of+CNX+Connect;Automation+%7C+AI+%7C+Systems;Building+Digital+Experiences" />                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
 
 <p>
 Transformando ideias em experiências digitais através de tecnologia, automação e design.
 </p>
 
 <br>
+<br><br>
 
 <a href="https://linkedin.com/in/SEULINK">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -69,7 +64,7 @@ currently:
 
 ---
 
-# ⚔️ Stack & Ferramentas
+# Stack & Ferramentas
 
 <div align="center">
 
@@ -77,7 +72,7 @@ currently:
 <tr>
 <td align="center" width="50%">
 
-## 🎨 Frontend
+## Frontend
 
 <br>
 
@@ -89,7 +84,7 @@ currently:
 
 <td align="center" width="50%">
 
-## ⚙️ Backend & Database
+## Backend & Database
 
 <br>
 
@@ -105,7 +100,7 @@ currently:
 <tr>
 <td align="center" width="50%">
 
-## 🛠️ Ferramentas
+## Ferramentas
 
 <br>
 
@@ -131,53 +126,4 @@ currently:
 
 </div>
 
----
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-
-</div>
-
----
-
-# 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=SEUUSERNAME&theme=tokyonight&hide_border=true&background=0D1117"/>
-
-</div>
-
----
-
-# 🟡 Pacman Contribution Graph
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" 
-    srcset="https://raw.githubusercontent.com/DevWizardMarcos/DevWizardMarcos/output/pacman-contribution-graph-dark.svg">
-
-  <source media="(prefers-color-scheme: light)" 
-    srcset="https://raw.githubusercontent.com/DevWizardMarcos/DevWizardMarcos/output/pacman-contribution-graph.svg">
-
-  <img alt="pacman contribution graph" 
-    src="https://raw.githubusercontent.com/DevWizardMarcos/DevWizardMarcos/output/pacman-contribution-graph.svg">
-</picture>
-
-</div>
-
----
-
-<div align="center">
-
-### ⚡ "Conectando ideias • Construindo soluções • Gerando impacto"
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:6e40c9&height=120&section=footer"/>
-
-</div>
