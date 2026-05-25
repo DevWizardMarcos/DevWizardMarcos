@@ -33,32 +33,45 @@ Transformando ideias em experiências digitais através de tecnologia, automaç�
 
 ---
 
-# 🧠 Sobre Mim
+# Sobre Mim
 
-<img align="right" height="220" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"/>
+<img align="left" height="645" src="banners_novos/magical_vertical_animation.gif"/>
 
-```yaml
-name: Marcos Simões
 
-role:
-  - Full Stack Developer
-  - Tech Mentor
-  - Founder @ CNX Connect
+```bash
+> initializing profile...
 
-focus:
-  - Desenvolvimento Web
-  - Automação
-  - Inteligência Artificial
-  - Sistemas Escaláveis
-  - Design & Experiência
+{
+  "user": "Marcos Simões",
+  "role": "Full Stack Developer",
+  "company": "CNX Connect",
 
-currently:
-  - Criando aplicações Full Stack
-  - Estudando arquitetura de software
-  - Desenvolvendo projetos geek/gamer
-  - Mentorando desenvolvedores
-  - Estruturando soluções digitais
+  "skills": [
+    "Web Development",
+    "Automation",
+    "Artificial Intelligence",
+    "Scalable Systems",
+    "Creative Design"
+  ],
+
+  "status": {
+    "learning": "ADS • Desenvolvimento de Sistemas",
+    "building": "Creative Full Stack Projects",
+    "mentoring": true,
+    "coffee_level": "99%"
+  },
+
+  "interests": [
+    "Geek Culture",
+    "Gaming",
+    "Technology",
+    "Digital Experiences"
+  ]
+}
+
+> system ready...
 ```
+
 
 <br clear="both"/>
 
