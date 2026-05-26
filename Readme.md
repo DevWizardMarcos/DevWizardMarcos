@@ -13,19 +13,19 @@ Transformando ideias em experiências digitais através de tecnologia, automaç�
 <br>
 <br><br>
 
-<a href="https://linkedin.com/in/SEULINK">
+<a href="https://www.linkedin.com/in/marcos-simoes-ms/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:SEUEMAIL">
+<a href="mailto:mp718887@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://instagram.com/SEUUSER">
+<a href="https://instagram.com/darckwolf787">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="https://discord.gg/SEULINK">
+<a href="https://discord.gg/mp6437">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
@@ -35,7 +35,7 @@ Transformando ideias em experiências digitais através de tecnologia, automaç�
 
 # Sobre Mim
 
-<img align="left" height="645" src="banners_novos/magical_vertical_animation.gif"/>
+<img align="left" height="650" src="banners_novos/magical_vertical_animation.gif"/>
 
 
 ```bash
