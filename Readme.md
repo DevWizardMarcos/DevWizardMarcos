@@ -35,7 +35,7 @@ Transformando ideias em experiências digitais através de tecnologia, automaç�
 
 # Sobre Mim
 
-<img align="left" height="630" src="banners_novos/magical_vertical_animation.gif"/>
+<img align="left" height="620" src="banners_novos/magical_vertical_animation.gif"/>
 
 
 ```bash
