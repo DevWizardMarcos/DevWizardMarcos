@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Founder+of+CNX+Connect;Automation+%7C+AI+%7C+Systems;Building+Digital+Experiences" />                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Front-End+Developer;Founder+of+CNX+Connect;Automation+%7C+AI+%7C+Systems;Building+Digital+Experiences" />                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
 
 <p>
 Transformando ideias em experiências digitais através de tecnologia, automação e design.
@@ -43,7 +43,7 @@ Transformando ideias em experiências digitais através de tecnologia, automaç�
 
 {
   "user": "Marcos Simões",
-  "role": "Full Stack Developer",
+  "role": "Front-End Developer",
   "company": "CNX Connect",
 
   "skills": [
